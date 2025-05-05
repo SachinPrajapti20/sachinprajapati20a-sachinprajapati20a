@@ -55,7 +55,7 @@ Currently upskilling myself in API Testing and Automation Framework development 
 
 - 📧 Email: sachinprajapati20a@gmail.com  
 - 📱 Mobile: +91 9616541935  
-- 🔗 LinkedIn https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sachinprajapati12
+- 🔗 LinkedIn [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)
 
 ---
 
