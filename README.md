@@ -1,63 +1,58 @@
-<h1 align="center">Hi, I'm Sachin Kumar Prajapati 👋</h1>
+<h1 align="center">👋 Hi, I'm Sachin Kumar Prajapati</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachinprajapati20a/sachinprajapati20a/IMG-20240227-WA0015.jpg" alt="Sachin Kumar Prajapati" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/sachinprajapati20a/sachinprajapati20a/main/profile-photo.jpg" alt="Sachin Kumar Prajapati" width="180" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <strong>Software Test Engineer | Manual & Automation Testing | API Testing | Selenium | Java</strong>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate **Software Test Engineer** with 1 year of hands-on experience in **Manual Testing** and **Automation Testing**.  
-I specialize in finding bugs, ensuring smooth user experiences, and writing well-structured test cases.
+I am a highly motivated and detail-oriented **Software Test Engineer** with 1 year of experience in **Manual Testing**, **Automation Testing**, and **API Testing**.
 
-Currently upskilling myself in API Testing and Automation Framework development using **Selenium, Java, and REST Assured**.
-
----
-
-## 🧪 Skills & Tools
-
-**Manual Testing**  
-✔️ Functional, Regression, Smoke, UI Testing  
-✔️ STLC, SDLC (Agile & Waterfall), Defect Life Cycle  
-✔️ Test Design Techniques – BVA, EP, Decision Tables  
-✔️ Bug Reporting, RTM, Test Case Creation
-
-**Automation Testing**  
-✔️ Selenium WebDriver with Java  
-✔️ TestNG, JUnit, Maven, Apache POI  
-✔️ Cucumber (BDD), POM Framework
-
-**API Testing**  
-✔️ Postman, Swagger  
-✔️ REST Assured (Basic CRUD + Validation)
-
-**Others**  
-✔️ Git, GitHub, Jenkins (CI/CD Basics)  
-✔️ JIRA, TestLink, MySQL, PostgreSQL
+- 🔍 Passionate about quality assurance and delivering bug-free software.
+- 🔧 Skilled in designing test cases, identifying defects, and ensuring optimal user experience.
+- 🚀 Currently learning advanced automation with **Selenium**, **REST Assured**, and real-time testing frameworks.
 
 ---
 
-## 📌 Projects
+## 🛠️ Core Skills
 
-- 🔹 **OpenCart Manual UI Testing**  
-  > Manual test plan, cases, bug reports for OpenCart e-commerce app
-
-- 🔹 **Automation Framework (Selenium + POM)**  
-  > Designed reusable automation framework with TestNG and Java
-
-- 🔹 **API Test Collection**  
-  > Sample Postman and REST Assured collections for learning/testing
+| Category              | Skills                                                                 |
+|-----------------------|------------------------------------------------------------------------|
+| ✅ Manual Testing      | Functional, Regression, Smoke, UI, STLC, SDLC, Defect Lifecycle        |
+| ✅ Automation Testing  | Selenium WebDriver (Java), TestNG, JUnit, Maven, Apache POI, Cucumber |
+| ✅ API Testing         | Postman, Swagger, REST Assured (CRUD, schema & status validations)    |
+| ✅ Tools/Platforms     | Git, GitHub, Jenkins, JIRA, TestLink, MySQL, PostgreSQL               |
 
 ---
 
-## 📫 Contact Me
+## 📁 Projects Showcase
 
-- 📧 Email: sachinprajapati20a@gmail.com  
-- 📱 Mobile: +91 9616541935  
-- 🔗 LinkedIn [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)
+🔹 **OpenCart Manual UI Testing**  
+Designed and executed comprehensive test cases on OpenCart e-commerce application. Reported bugs and improvements with clarity and precision.
+
+🔹 **Automation Framework (Selenium + POM)**  
+Developed a reusable Selenium automation framework using Java, POM, and TestNG with data-driven testing support.
+
+🔹 **REST API Test Suite**  
+Built robust API test cases using Postman and REST Assured for validation of request/response flow and schema checks.
 
 ---
 
-⭐ *Always learning | Always testing | Always improving*
+## 📫 Get in Touch
 
+- 📧 **Email**: [sachinprajapati20a@gmail.com](mailto:sachinprajapati20a@gmail.com)  
+- 📱 **Mobile**: +91 9616541935  
+- 🔗 **LinkedIn**: [linkedin.com/in/sachinprajapati12](https://www.linkedin.com/in/sachinprajapati12/)
+
+---
+
+<p align="center">
+  <em>“Quality is never an accident; it is always the result of intelligent effort.”</em><br>
+  <strong>– Sachin Kumar Prajapati</strong>
+</p>
