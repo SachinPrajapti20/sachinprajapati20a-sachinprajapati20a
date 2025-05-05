@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Test Engineer | Manual & Automation Testing | API Testing | Selenium | Java</strong>
+  <strong>Software Test Engineer | Manual & Automation Testing | Java | Selenium WebDriver | API Testing (Postman, REST Assured, Swagger) | JUnit | Agile Methodologies | Jira | CI/CD (Jenkins, GitHub Actions) | TestLink | Mobile Testing | Cucumber (BDD)</strong>
 </p>
 
 ---
